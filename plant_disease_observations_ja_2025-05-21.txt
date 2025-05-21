@@ -1,0 +1,74 @@
+Timestamp | Image | Observation
+----------------------------------------------------------------------------------------------------
+2025-05-21 12:13:32 | 1.jpg | Here's the analysis of the plant disease in Japanese:
+
+*   **病名 (Byoumei - Disease Name):** うどんこ病 (Udonko-byou - Powdery Mildew)
+
+*   **症状 (Shoujou - Symptoms):**
+    *   葉の表面に白い粉状のものが付着します。(Ha no hyoumen ni shiroi konajou no mono ga fuchaku shimasu. - A white, powdery substance adheres to the surface of the leaves.)
+    *   症状が進行すると、葉全体が白い粉で覆われ、枯れてしまうことがあります。(Shoujou ga shinkou suru to, ha zentai ga shiroi kona de ooware, karete shimau koto ga arimasu. - As the symptoms progress, the entire leaf may be covered in white powder and eventually wither.)
+    *   若い芽や茎にも発生することがあります。(Wakai me ya kuki ni mo hassei suru koto ga arimasu. - It can also occur on young shoots and stems.)
+
+*   **治療・薬剤 (Chiryou/Yakuzai - Treatment/Medicine):**
+    *   感染した葉を取り除いてください。(Kansen shita ha o torinozoite kudasai. - Remove the infected leaves.)
+    *   殺菌剤を散布してください。うどんこ病に効果のある殺菌剤を使用してください。(Sakkinzai o sanpu shite kudasai. Udonko-byou ni kouka no aru sakkinzai o shiyou shite kudasai. - Spray a fungicide. Use a fungicide that is effective against powdery mildew.)
+    *   通気性を良くするために、植物の周りの環境を改善してください。(Tsuukisei o yoku suru tame ni, shokubutsu no mawari no kankyou o kaizen shite kudasai. - Improve the environment around the plant to improve ventilation.)
+    *   重曹水（水1リットルに重曹小さじ1杯）を散布するのも効果的な場合があります。(Juusousui (mizu 1 rittoru ni juusou kosaji 1 pai) o sanpu suru no mo kouka-teki na baai ga arimasu. - Spraying baking soda solution (1 teaspoon of baking soda in 1 liter of water) can also be effective.)
+
+2025-05-21 12:13:32 | 4.jpg | Okay, here's the analysis of the cucumber disease in Japanese:
+
+*   **病名 (Byoumei - Name of the disease):** 炭疽病 (Tansobyou - Anthracnose)
+
+*   **症状 (Shoujou - Description of symptoms):**
+    *   果実に小さな水浸状の斑点が現れます。(Kajitsu ni chiisana suishin-jou no hanten ga arawaremasu. - Small, water-soaked spots appear on the fruit.)
+    *   斑点は拡大し、陥没した病斑となります。(Hanten wa kakudai shi, kanbotsu shita byouhan to narimasu. - The spots enlarge and become sunken lesions.)
+    *   病斑の中央部は、オレンジ色からピンク色の胞子塊で覆われることがあります。(Byouhan no chuuoubu wa, orenji-iro kara pinku-iro no houshi-kai de oowareru koto ga arimasu. - The center of the lesions may be covered with orange to pink spore masses.)
+    *   症状が進行すると、果実全体が腐敗することがあります。(Shoujou ga shinkou suru to, kajitsu zentai ga fuhai suru koto ga arimasu. - As symptoms progress, the entire fruit may rot.)
+
+*   **治療または薬剤 (Chiryou matawa Yakuzai - Suggested treatment or medicine):**
+    *   発病した果実は速やかに除去します。(Hatsubyou shita kajitsu wa sumiyaka ni jokyo shimasu. - Remove infected fruits promptly.)
+    *   予防のために、殺菌剤を定期的に散布します。(Yobou no tame ni, sakkinzai wo teikiteki ni sanpu shimasu. - Spray fungicides regularly for prevention.)
+    *   有効な殺菌剤としては、マンゼブ、キャプタン、クロロタロニルなどがあります。(Yuukou na sakkinzai to shite wa, manzebu, kyaputan, kurorotaroniru nado ga arimasu. - Effective fungicides include manzeb, captan, chlorothalonil, etc.)
+    *   栽培環境を改善し、風通しを良くすることで、病気の発生を抑制できます。(Saibai kankyou wo kaizen shi, fuutoushi wo yoku suru koto de, byouki no hassei wo yokusei dekimasu. - Improving the growing environment and increasing ventilation can suppress the occurrence of the disease.)
+    *   連作を避け、輪作を行うことが重要です。(Rensaku wo sake, rinsaku wo okonau koto ga juuyou desu. - It is important to avoid continuous cropping and practice crop rotation.)
+
+2025-05-21 12:13:32 | 3.jpg | Here's an analysis of the tomato plant disease, in Japanese:
+
+*   **病名 (Byoumei - Disease Name):**尻腐れ病 (Shirigusare-byou - Blossom-End Rot)
+
+*   **症状 (Shoujou - Symptoms):**
+    *   果実の先端部分（花落ち部）に、最初は水浸しのような斑点ができる。 (Kajitsu no sentan bubun (hanaochi-bu) ni, saisho wa mizubitashi no you na hanten ga dekiru.) - Water-soaked spots initially appear on the blossom end of the fruit.
+    *   斑点は徐々に拡大し、黒色または褐色の陥没した病斑となる。(Hanten wa jojoni kakudai shi, kokushoku matawa kasshoku no kanbotsu shita byouhan to naru.) - The spots gradually enlarge and become sunken, black or brown lesions.
+    *   病斑部分は硬くなり、乾燥して革のようになる。(Byouhan bubun wa kataku nari, kansou shite kawa no you ni naru.) - The diseased area becomes hard, dry, and leathery.
+
+*   **治療・薬剤 (Chiryou/Yakuzai - Treatment/Medicine):**
+    *   尻腐れ病はカルシウム不足が原因であることが多いため、カルシウムを含む肥料を施用する。(Shirigusare-byou wa karushiumu busoku ga gen'in de aru koto ga ooいため, karushiumu o fukumu hiryou o seyou suru.) - Blossom-end rot is often caused by calcium deficiency, so apply a fertilizer containing calcium.
+    *   土壌のpHを適切に保つ（pH6.0～6.5が目安）。(Dojou no pH o tekisetsu ni tamotsu (pH 6.0~6.5 ga mezasu).) - Maintain proper soil pH (around pH 6.0-6.5 is a good target).
+    *   灌水を適切に行い、土壌の乾燥を防ぐ。(Kansui o tekisetsu ni okonai, dojou no kansou o fusegu.) - Water properly to prevent soil from drying out. Irregular watering can exacerbate the problem.
+    *   カルシウム葉面散布剤を使用するのも効果的です。(Karushiumu youmen sanpu-zai o shiyou suru no mo koukateki desu.) - Using a calcium foliar spray can also be effective.
+    *   病気に感染した果実は摘み取る。(Byouki ni kansen shita kajitsu wa tsumi toru.) - Remove infected fruits.
+
+2025-05-21 12:13:32 | 2.jpg | Okay, here's my analysis of the grape leaf, presented in Japanese:
+
+*   **病名 (Byōmei - Disease Name):** 灰色かび病 (Haiirokabibyō) または、ベト病の初期症状 (Betobyō no shoki shōjō)
+
+*   **症状の説明 (Shōjō no Setsumei - Description of Symptoms):**
+    *   葉に黄緑色の小さな斑点が現れています。(Ha ni kimidori-iro no chiisana hanten ga arawareteimasu.) - Small yellowish-green spots are appearing on the leaf.
+    *   斑点は葉全体に広がり、モザイク状に見えることがあります。(Hanten wa ha zentai ni hirogari, mozaiku-jō ni mieru koto ga arimasu.) - The spots can spread across the entire leaf, appearing mosaic-like.
+    *   葉脈に沿って症状が強く出る場合があります。(Yōmyaku ni sotte shōjō ga tsuyoku deru baai ga arimasu.) - Symptoms may be more pronounced along the veins.
+    *   葉の裏に白いカビが生えることがあります。(Ha no ura ni shiroi kabi ga haeru koto ga arimasu.) - White mold may grow on the underside of the leaf (more characteristic of Downy Mildew).
+
+*   **治療法・薬剤 (Chiryōhō/Yakuzai - Treatment/Medicine):**
+    *   感染した葉を取り除いてください。(Kansen shita ha o torinozoite kudasai.) - Remove infected leaves.
+    *   風通しを良くするために、枝の剪定を行ってください。(Fūtsūshi o yoku suru tame ni, eda no sentei o okonatte kudasai.) - Prune branches to improve air circulation.
+    *   予防として、銅剤またはジチアノンを含む殺菌剤を散布してください。(Yobō to shite, dōzai matawa jichianon o fukumu sakkinzai o sanpu shite kudasai.) - As a preventative measure, spray fungicides containing copper compounds or dithianon.
+    *   ベト病の場合は、メタラキシルなどの浸透移行性殺菌剤を使用してください。(Betobyō no baai wa, metarakishiru nado no shintō ikōsei sakkinzai o shiyō shite kudasai.) - In the case of downy mildew, use systemic fungicides such as metalaxyl.
+    *   殺菌剤を使用する際は、製品ラベルの指示に従ってください。(Sakkinzai o shiyō suru sai wa, seihin raberu no shiji ni shitagatte kudasai.) - When using fungicides, follow the instructions on the product label.
+    *   定期的に畑を観察し、早期発見に努めてください。(Teikiteki ni hatake o kansatsu shi, sōki hakken ni tsutomete kudasai.) - Regularly observe the field and strive for early detection.
+
+**Important Notes:**
+
+*   The initial diagnosis is somewhat tentative based on the image.  Downy Mildew is a more likely candidate, but Grey Mold can sometimes produce similar early symptoms. Careful observation for other signs (like the white mold on the underside of the leaf for Downy Mildew, or the grey fuzzy growth on berries for Grey Mold) is critical for correct identification.
+*   Always follow the instructions on any pesticide or fungicide label for safe and effective use.
+*   Crop rotation and good sanitation practices can help prevent disease outbreaks.
+

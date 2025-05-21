@@ -1,0 +1,84 @@
+Timestamp | Image | Observation
+----------------------------------------------------------------------------------------------------
+2025-05-21 12:13:32 | 4.jpg | ठीक है, मैं आपकी मदद कर सकता हूँ। यहां खीरे के पौधों में दिखाई देने वाली बीमारी, उसके लक्षण और सुझाए गए उपचार का विवरण दिया गया है:
+
+*   **बीमारी का नाम:** एन्थ्रेक्नोज (Anthracnose)
+
+*   **लक्षण:**
+    *   फल पर छोटे, धंसे हुए, पानी से लथपथ धब्बे दिखाई देते हैं।
+    *   ये धब्बे आकार में बढ़ सकते हैं और गहरे रंग के, धंसे हुए घावों में बदल सकते हैं।
+    *   गीले मौसम में, इन घावों पर गुलाबी या नारंगी रंग के बीजाणु द्रव्यमान दिखाई दे सकते हैं।
+    *   पत्तियों और तनों पर भी धब्बे हो सकते हैं, लेकिन फल पर होने वाले लक्षण सबसे अधिक विनाशकारी होते हैं।
+
+*   **उपचार/दवाई:**
+    *   **कल्चरल नियंत्रण:**
+        *   संक्रमित पौधों को तुरंत हटाकर नष्ट कर दें।
+        *   फसलों को घुमाएँ ताकि खीरे को उसी जमीन पर लगातार न लगाया जाए।
+        *   पौधों के बीच उचित हवा का संचार सुनिश्चित करें।
+        *   सिंचाई करते समय पत्तियों को गीला होने से बचाएं।
+    *   **रासायनिक नियंत्रण:**
+        *   एज़ोक्सीस्ट्रोबिन (azoxystrobin), क्लोरोथालोनिल (chlorothalonil), मैंकोजेब (mancozeb), या कॉपर-आधारित कवकनाशी (copper-based fungicides) जैसे कवकनाशी का उपयोग करें।
+        *   लेबल निर्देशों के अनुसार कवकनाशी का प्रयोग करें।
+        *   रोग के शुरुआती चरणों में कवकनाशी का प्रयोग करना सबसे प्रभावी होता है।
+        *   कवकनाशी प्रतिरोध को रोकने के लिए विभिन्न प्रकार के कवकनाशी का प्रयोग बारी-बारी से करें।
+
+**ध्यान दें:** किसी भी दवा का उपयोग करने से पहले, लेबल पर दिए गए निर्देशों को ध्यान से पढ़ें और उनका पालन करें। यदि समस्या बनी रहती है, तो स्थानीय कृषि विशेषज्ञ से सलाह लें।
+
+2025-05-21 12:13:32 | 1.jpg | Okay, here's the analysis of the plant disease in Hindi, based on the image:
+
+*   **रोग का नाम:** चूर्णिल आसिता (Powdery Mildew)
+
+*   **लक्षणों का विवरण:**
+    *   पत्तियों की सतह पर सफेद, पाउडर जैसा पदार्थ दिखाई देता है। यह पदार्थ फफूंद (fungus) की वृद्धि के कारण होता है।
+    *   शुरुआत में, पत्तियों पर छोटे, गोल धब्बे दिखाई देते हैं, जो बाद में पूरे पत्ते को ढक सकते हैं।
+    *   पत्तियाँ पीली पड़ सकती हैं, मुड़ सकती हैं और अंततः गिर सकती हैं।
+    *   गंभीर संक्रमण में, तनों और फूलों पर भी यह फफूंद दिखाई दे सकती है।
+
+*   **उपचार या दवा:**
+    *   **जैविक नियंत्रण:** नीम का तेल (Neem oil) या बेकिंग सोडा (Baking soda) का घोल बनाकर पत्तियों पर छिड़काव करें।
+    *   **रासायनिक नियंत्रण:** कवकनाशी (Fungicides) जैसे कि ट्राइएडिमफोन (Triadimefon), माइक्लोबुटानिल (Myclobutanil), या सल्फर (Sulfur) आधारित दवा का उपयोग करें। उत्पाद के निर्देशों का पालन करें और छिड़काव करते समय सुरक्षा सावधानी बरतें।
+    *   **सांस्कृतिक नियंत्रण:** संक्रमित पत्तियों को हटा दें और नष्ट कर दें। पौधों के बीच उचित हवा का संचार सुनिश्चित करें। सिंचाई करते समय पत्तियों को गीला करने से बचें।
+
+**Disclaimer:** Always follow the instructions on the product label when using any pesticide or fungicide. Consult with a local agricultural expert for specific recommendations for your area and crop.
+
+2025-05-21 12:13:32 | 3.jpg | Okay, here's the analysis of the tomato plant disease in Hindi:
+
+*   **रोग का नाम:** ब्लॉसम एंड रॉट (Blossom End Rot)
+
+*   **लक्षण:**
+    *   टमाटर के निचले हिस्से (फूल वाले सिरे) पर भूरे या काले रंग के धब्बे दिखाई देते हैं।
+    *   ये धब्बे धीरे-धीरे बढ़ते हैं और फल का वह हिस्सा सड़ने लगता है।
+    *   प्रभावित फल पकने से पहले ही खराब हो जाते हैं।
+    *   पत्तियां भी सूख सकती हैं।
+
+*   **उपचार/दवा:**
+    *   **कैल्शियम की कमी को दूर करें:** यह रोग अक्सर कैल्शियम की कमी के कारण होता है। मिट्टी में कैल्शियम की मात्रा बढ़ाने के लिए कैल्शियम नाइट्रेट या जिप्सम का उपयोग करें। मिट्टी परीक्षण करवाकर कैल्शियम की उचित मात्रा का पता लगाएं।
+    *   **नियमित रूप से पानी दें:** अनियमित पानी की आपूर्ति भी कैल्शियम के अवशोषण को प्रभावित कर सकती है। पौधों को नियमित रूप से पानी दें, खासकर फल लगने के दौरान।
+    *   **मल्चिंग:** मिट्टी की नमी बनाए रखने के लिए पौधों के चारों ओर मल्चिंग करें।
+    *   **पत्तियों पर कैल्शियम का छिड़काव:** कैल्शियम क्लोराइड के घोल का पत्तियों पर छिड़काव करें। लेबल पर दिए गए निर्देशों का पालन करें।
+    *   **प्रभावित फलों को हटा दें:** जो फल सड़ चुके हैं, उन्हें हटा दें ताकि रोग अन्य फलों में न फैले।
+    *   **मिट्टी का पीएच स्तर जांचें:** मिट्टी का पीएच स्तर 6.0 और 6.8 के बीच होना चाहिए ताकि कैल्शियम का अवशोषण ठीक से हो सके।
+    *   **उचित उर्वरक का प्रयोग:** सही उर्वरक का प्रयोग करें जो नाइट्रोजन, फास्फोरस और पोटेशियम का सही अनुपात प्रदान करे, साथ ही कैल्शियम भी।
+
+**महत्वपूर्ण नोट:** हमेशा लेबल पर दिए गए निर्देशों के अनुसार ही दवाओं और उर्वरकों का प्रयोग करें।
+
+2025-05-21 12:13:32 | 2.jpg | Okay, here's the analysis of the grape leaf, including the probable disease, symptoms, and suggested treatment in Hindi:
+
+*   **रोग का नाम:** (Rog ka Naam): डाउन मिल्ड्यू (Downy Mildew)
+
+*   **लक्षणों का विवरण:** (Lakshano ka Vivran)
+    *   पत्ते पर हल्के पीले रंग के धब्बे दिखाई देते हैं। (Patte par halke peele rang ke dhabbe dikhai dete hain.) - Light yellow spots appear on the leaf.
+    *   धब्बे तेल जैसे दिखते हैं। (Dhabbe tel jaise dikhte hain.) - The spots appear oily.
+    *   पत्ते के नीचे की तरफ सफेद रंग की फफूंदी (कवक) दिख सकती है। (Patte ke neeche ki taraf safed rang ki fafundi (kawak) dikh sakti hai.) - White mold (fungus) may be visible on the underside of the leaf.
+    *   गंभीर संक्रमण में पत्ते सूखकर गिर सकते हैं। (Gambhir sankraman mein patte sookhkar gir sakte hain.) - In severe infections, leaves can dry out and fall off.
+
+*   **सुझाया गया उपचार/दवाई:** (Sujhaya Gaya Upchar/Dawai)
+    *   **फफूंदनाशक का छिड़काव:** (Fafundnashak ka Chidkav): मैनकोजेब (Mancozeb), मेटलैक्सिल (Metalaxyl), या फॉसेटिल-एल्यूमीनियम (Fosetyl-aluminum) जैसे फफूंदनाशकों का उपयोग करें। निर्माता के निर्देशों का पालन करें। (Mancozeb, Metalaxyl, ya Fosetyl-aluminum jaise fafundnashakon ka upyog karen. Nirmata ke nirdeshon ka palan karen.) - Use fungicides like Mancozeb, Metalaxyl, or Fosetyl-aluminum. Follow the manufacturer's instructions.
+    *   **निवारक उपाय:** (Nivarak Upay): बेलों के बीच हवा का संचार बेहतर बनाने के लिए छंटाई करें। संक्रमित पत्तियों को हटा दें और नष्ट कर दें। (Belon ke beech hawa ka sanchar behtar banane ke liye chhantaai karen. Sankramit pattiyon ko hata den aur nasht kar den.) - Prune to improve air circulation between vines. Remove and destroy infected leaves.
+    *   **तांबे आधारित कवकनाशी:** (Tambe Adharit Kavaknaashi): तांबे आधारित कवकनाशी रोग को फैलने से रोकने में मदद कर सकते हैं, खासकर शुरुआती अवस्था में। (Tambe adharit kavaknaashi rog ko failne se rokne mein madad kar sakte hain, khas kar shuruaati avastha mein.) - Copper-based fungicides can help prevent the disease from spreading, especially in the early stages.
+
+**महत्वपूर्ण सूचना:** (Mahatvapurna Suchna)
+
+*   किसी भी दवा का उपयोग करने से पहले, उत्पाद लेबल को ध्यान से पढ़ें और निर्देशों का पालन करें। (Kisi bhi dawa ka upyog karne se pehle, utpad label ko dhyan se padhen aur nirdeshon ka palan karen.)
+*   अपनी स्थानीय कृषि विस्तार सेवा से सलाह लेना हमेशा सबसे अच्छा होता है ताकि आपके क्षेत्र के लिए सबसे उपयुक्त उपचार का पता चल सके। (Apni sthaniya krishi vistaar seva se salaah lena hamesha sabse achha hota hai taki aapke kshetra ke liye sabse upyukt upchar ka pata chal sake.)
+
